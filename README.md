@@ -53,8 +53,8 @@ The project helped deepen my understanding of Laravel's architecture, RESTful AP
 
 
 # 1. Clone the Repository
-git clone https://github.com/your-username/multi-vendor-backend.git
-cd multi-vendor-backend
+git clone https://github.com/NadaReda22/paYield.git
+cd paYield
 
 # 2. Install Dependencies
 composer install
