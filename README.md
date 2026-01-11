@@ -80,6 +80,24 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
+---------------------------------------------------------------------
+#📸Some screenshots here !🎇
+<img src="./tests/Screenshot%20(319).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(322).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(325).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(326).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(356).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(329).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(335).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(336).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(338).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(340).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(341).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(342).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(343).png" width="300" height="300" alt="image">
+<img src="./tests/Screenshot%20(344).png" width="300" height="300" alt="image">
+
+
 
 
 
