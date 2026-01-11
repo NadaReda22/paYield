@@ -55,26 +55,31 @@ The project helped deepen my understanding of Laravel's architecture, RESTful AP
 
 
 # 1. Clone the Repository
+```bash
 git clone https://github.com/NadaReda22/paYield.git
 cd paYield
-
+```
 # 2. Install Dependencies
 composer install
 
 # 3. Create Environment File
+```bash
 cp .env.example .env
-
+```
 # 4. Generate App Key
+```bash
 php artisan key:generate
-
+```
 # 5. Configure your .env file (DB, mail, etc.)
 
 # 6. Run Migrations and Seeders
+```bash
 php artisan migrate --seed
-
+```
 # 7. Serve the Application
+```bash
 php artisan serve
-
+```
 
 
 
