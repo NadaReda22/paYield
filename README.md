@@ -10,6 +10,8 @@ This backend system was developed as part of a personal learning challenge and p
 
 The project helped deepen my understanding of Laravel's architecture, RESTful APIs, and backend logic for scalable applications.
 
+
+
 ---
 
 ## 👥 Roles
@@ -83,4 +85,6 @@ Coding with ☕, curiosity, and clean code.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nada-reda22/)
 - 💻 [GitHub](https://github.com/NadaReda22)
+- 🔗 [Dashboard on Youtube](https://www.youtube.com/watch?v=_6PiqxDVSvU)
+- 🔗 [Website on Youtube](https://www.youtube.com/watch?v=5PuxqOzgTZo)
 
